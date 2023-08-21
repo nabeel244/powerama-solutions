@@ -13,6 +13,9 @@ a {
     text-align: justify;
     text-justify: inter-character;
   }
+  #hero-video-mobile {
+    display: none;
+  }
 }
 a:hover {
   color: #00cc81;
