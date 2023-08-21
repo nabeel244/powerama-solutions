@@ -26,6 +26,11 @@ a {
     margin-top: 30px !important;
   }
 }
+@media (max-width: 769px) {
+  #hero-video {
+    display: none;
+  }
+}
 a:hover {
   color: #00cc81;
   text-decoration: none;
