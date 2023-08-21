@@ -16,6 +16,15 @@ a {
   #hero-video-mobile {
     display: none;
   }
+  .headingleft {
+    padding: 30px !important;
+    /* padding: 50px !important; */
+  }
+
+  .headingright {
+    color: white !important;
+    margin-top: 30px !important;
+  }
 }
 a:hover {
   color: #00cc81;
@@ -813,17 +822,17 @@ h6 {
 .project {
   background-color: #060d61;
   margin-top: 10% !important;
-  padding-bottom: 3%;
+  padding-bottom: 2%;
   height: auto;
 }
 
 .headingleft {
-  padding: 50px !important;
+  padding: 10px;
 }
 
 .headingright {
   color: white;
-  padding: 50px !important;
+  margin-top: 10px;
 }
 
 #resources {
@@ -1957,7 +1966,7 @@ h6 {
 
 @media only screen and (max-width: 750px) {
   .project {
-    height: 200vh !important;
+    height: 175vh !important;
   }
 }
 
@@ -1969,7 +1978,8 @@ h6 {
 
 @media (max-width: 440px) and (min-width: 424px) {
   .project {
-    height: 1170px !important;
+    height: 960px !important;
+    /* height: auto !important; */
   }
 }
 

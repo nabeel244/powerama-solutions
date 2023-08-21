@@ -2883,14 +2883,14 @@ fieldset:disabled a.btn {
 
 .btn-warning:hover {
   color: #212529;
-  background-color: #e0a800;
+  background-color: #2ba6ec;
   border-color: #2ba6ec;
 }
 
 .btn-warning.focus,
 .btn-warning:focus {
   color: #212529;
-  background-color: #e0a800;
+  background-color: #2ba6ec;
   border-color: #2ba6ec;
   box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0.5);
 }
